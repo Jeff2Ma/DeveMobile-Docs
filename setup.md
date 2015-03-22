@@ -47,11 +47,11 @@
 主题的菜单相同的），菜单名字随便命名。然后拖动选择菜单的子项目，本主题只支持支持一级菜单，请自行设置。
 
 主题左侧导航栏的每个小图标是通过每个项目的“图像描述”来设置的（请点击左上角的“显示选项”，勾选“图像描述”），在某个项目中输入图片代码（类似icon-***），限于篇幅，本完整步骤以及视频教程请参考《[EaseMobile 主题导航菜单设置小图标的方法（图文+视频教程）](http://devework.com/easemobile-menu-icon-setting.html)》一文。（主题不同，但操作步骤是一致的）
-![](http://cdn.devework.com/theme/devemobile/docs/img/menu-icon.png)
+![](http://cdn.devework.com/theme/devemobile/docs/img2/menu-icon.png)
 
 ```仪表盘 ► 外观 ► 菜单 ► 管理菜单```
 
 在“主题位置”下面选择“移动主题菜单”，“已指派的菜单”选择你上一步编辑的菜单，保存即可。
 
-![](http://cdn.devework.com/theme/devemobile/docs/img/menu2.png)
+![](http://cdn.devework.com/theme/devemobile/docs/img2/menu2.png)
 
